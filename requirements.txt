@@ -1,0 +1,6 @@
+transformers==4.38.1
+tokenizers==0.15.2
+requests==2.31.0
+pyTelegramBotAPI==4.16.1
+typing_extensions==4.10.0
+huggingface-hub==0.21.3
